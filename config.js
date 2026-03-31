@@ -104,7 +104,7 @@ const CONFIG = {
     {
       type: "profile",
       wishTitle: "Nice to meet you!!!",
-      wishText: "May the happies always be with you! ;)",
+      wishText: "May the happiness always be with you! ;)",
     },
     {
       type: "fireworks",
